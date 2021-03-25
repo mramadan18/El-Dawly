@@ -415,7 +415,7 @@ h2 {
 /* Start Media Query */
 
 /* Mobile Screen */
-@media (min-width: 576px) {
+@media (max-width: 767px) {
   .container {
     max-width: 540px;
   }
